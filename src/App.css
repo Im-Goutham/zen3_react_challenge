@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  margin: 50px;
+  font-family: 'Alegreya', serif;
+}
+
+.error {
+  color: grey;
+  font-weight: 100;
+  font-size: 22px;
+}
+
